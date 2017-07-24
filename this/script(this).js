@@ -5,6 +5,9 @@ function test(){
     console.log("Ashish");
 }
 test();
+//this type of binding is also known as implicit binding and here this is the global object in the window scope.
+//and this type of method invocation is also known as free method invocation in javascript.
+console.log(test===window.test); //true
 
 
 //Here this will print window object and then it will print Ashish.
