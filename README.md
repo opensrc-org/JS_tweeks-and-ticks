@@ -1,4 +1,4 @@
-# JS_tweeks-ticks
+# JS_tweeks-&-ticks
 
 ### Becomea a Novice to Ninja
 Clueless about how to code and develop Super Awesome Dynamic web pages using Javascript.  Do you need help overcoming simple but tricky code problems in Javascript?
